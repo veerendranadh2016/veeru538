@@ -12,6 +12,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Author: WPAdm.com
 Contributors: WPAdm.com
 
+
+hi 
+this veeru 
+
 Backup & Restore Dropbox Plugin to create Dropbox Full Backup (Files + Database) or Restore, Duplicate, Clone or Migrate of your Website
 
 == Description ==
